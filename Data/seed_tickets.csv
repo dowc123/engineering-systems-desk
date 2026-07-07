@@ -1,0 +1,9 @@
+Title,Module,Priority,Status,HoursAgo
+Blast pattern export fails for pit 3,DrillAndBlast,Critical,Open,6
+Geotech monitoring feed delayed,Geotechnical,High,Open,30
+Reserves report totals mismatch vendor export,ReservesAndResources,Medium,InProgress,10
+Drill plan sync job stuck overnight,DrillAndBlast,High,Open,50
+Slope stability dashboard blank for site B,Geotechnical,Critical,Open,2
+Quarterly reserves reconciliation request,ReservesAndResources,Low,Open,20
+Blast log upload permission error,DrillAndBlast,Medium,Resolved,80
+Geotech sensor calibration ticket,Geotechnical,Low,Closed,200
